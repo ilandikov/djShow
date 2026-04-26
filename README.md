@@ -10,7 +10,7 @@ If you have any questions, please contact me on Telegram @aleksandr_deinega or b
 - **MacOS:** Djay, Embrace, JRiver, Mixxx, Music, Swinsian, Traktor, VirtualDJ, VOX.
 - **Windows:** Aimp, JRiver, iTunes, Foobar2000, MediaMonkey, Mixxx, MusicBee, Traktor, VirtualDJ, Winamp.
 
-(https://imgcloud.ru/public/djShow.jpg)
+[](https://imgcloud.ru/public/djShow.jpg)
 
 ## Скачать пограмму
 
